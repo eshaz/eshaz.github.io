@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Overclocking Linksys EA-Series Routers"
-date:   2020-05-16 13:37:23 -0500
+date:   2020-05-18 13:37:23 -0500
 categories: electronics
 ---
 
