@@ -89,9 +89,9 @@ You will have a very fast Linux and Windows bootable RAID array using two NVMe S
 
 ### **DISCLAIMER**
 
-**In this guide you will be directly writing to your NVMe storage on the block level. There won't be any "are you sure messages" or "undo" buttons. If you mistakenly type in the wrong thing, you will permanently loose data.**
+**In this guide you will be directly writing to your NVMe storage on the block level. There won't be any "are you sure messages" or "undo" buttons. If you mistakenly type in the wrong thing, you will permanently lose data.**
 
-<span style="color:red">***MAKE BACKUPS OF ANY DATA YOU DON'T WANT TO LOOSE!***</span>
+<span style="color:red">***MAKE BACKUPS OF ANY DATA YOU DON'T WANT TO LOSE!***</span>
 
 ## Prerequisites
 
